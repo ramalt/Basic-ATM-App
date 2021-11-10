@@ -1,0 +1,16 @@
+C:\Dev\Cs\RamBankAtmApp\RamBankApp\bin\Debug\net5.0\RamBankApp.exe
+C:\Dev\Cs\RamBankAtmApp\RamBankApp\bin\Debug\net5.0\RamBankApp.deps.json
+C:\Dev\Cs\RamBankAtmApp\RamBankApp\bin\Debug\net5.0\RamBankApp.runtimeconfig.json
+C:\Dev\Cs\RamBankAtmApp\RamBankApp\bin\Debug\net5.0\RamBankApp.runtimeconfig.dev.json
+C:\Dev\Cs\RamBankAtmApp\RamBankApp\bin\Debug\net5.0\RamBankApp.dll
+C:\Dev\Cs\RamBankAtmApp\RamBankApp\bin\Debug\net5.0\ref\RamBankApp.dll
+C:\Dev\Cs\RamBankAtmApp\RamBankApp\bin\Debug\net5.0\RamBankApp.pdb
+C:\Dev\Cs\RamBankAtmApp\RamBankApp\obj\Debug\net5.0\RamBankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Cs\RamBankAtmApp\RamBankApp\obj\Debug\net5.0\RamBankApp.AssemblyInfoInputs.cache
+C:\Dev\Cs\RamBankAtmApp\RamBankApp\obj\Debug\net5.0\RamBankApp.AssemblyInfo.cs
+C:\Dev\Cs\RamBankAtmApp\RamBankApp\obj\Debug\net5.0\RamBankApp.csproj.CoreCompileInputs.cache
+C:\Dev\Cs\RamBankAtmApp\RamBankApp\obj\Debug\net5.0\RamBankApp.dll
+C:\Dev\Cs\RamBankAtmApp\RamBankApp\obj\Debug\net5.0\ref\RamBankApp.dll
+C:\Dev\Cs\RamBankAtmApp\RamBankApp\obj\Debug\net5.0\RamBankApp.pdb
+C:\Dev\Cs\RamBankAtmApp\RamBankApp\obj\Debug\net5.0\RamBankApp.genruntimeconfig.cache
+C:\Dev\Cs\RamBankAtmApp\RamBankApp\obj\Debug\net5.0\RamBankApp.csproj.AssemblyReference.cache
